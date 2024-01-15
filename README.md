@@ -1,6 +1,5 @@
 # Advanced Scikit-Learn Tips
 
-![Scikit-Learn Logo](https://en.m.wikipedia.org/wiki/File:Scikit_learn_logo_small.svg)
 
 Hey LinkedIn fam! 🌟 Welcome to the quick guide to unlock advanced Scikit-Learn features.
 
